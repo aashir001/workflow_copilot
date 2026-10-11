@@ -1,0 +1,430 @@
+[
+ {
+  "user_id": "U001",
+  "name": "Aarav Mehta",
+  "email": "aarav.mehta@acme.example",
+  "role": "manager",
+  "department": "Sales",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U002",
+  "name": "Priya Sharma",
+  "email": "priya.sharma@acme.example",
+  "role": "manager",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U003",
+  "name": "Rohan Kapoor",
+  "email": "rohan.kapoor@acme.example",
+  "role": "manager",
+  "department": "Finance",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U004",
+  "name": "Neha Gupta",
+  "email": "neha.gupta@acme.example",
+  "role": "manager",
+  "department": "Engineering",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U005",
+  "name": "Vikram Singh",
+  "email": "vikram.singh@acme.example",
+  "role": "manager",
+  "department": "Operations",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U006",
+  "name": "Ananya Iyer",
+  "email": "ananya.iyer@acme.example",
+  "role": "manager",
+  "department": "Marketing",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U007",
+  "name": "Karan Malhotra",
+  "email": "karan.malhotra@acme.example",
+  "role": "manager",
+  "department": "Data",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U008",
+  "name": "Sneha Reddy",
+  "email": "sneha.reddy@acme.example",
+  "role": "manager",
+  "department": "Product",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U009",
+  "name": "Arjun Nair",
+  "email": "arjun.nair@acme.example",
+  "role": "hr",
+  "department": "HR",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U010",
+  "name": "Isha Verma",
+  "email": "isha.verma@acme.example",
+  "role": "hr",
+  "department": "HR",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U011",
+  "name": "Rahul Joshi",
+  "email": "rahul.joshi@acme.example",
+  "role": "hr",
+  "department": "HR",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U012",
+  "name": "Meera Pillai",
+  "email": "meera.pillai@acme.example",
+  "role": "finance",
+  "department": "Finance",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U013",
+  "name": "Siddharth Rao",
+  "email": "siddharth.rao@acme.example",
+  "role": "finance",
+  "department": "Finance",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U014",
+  "name": "Kavya Menon",
+  "email": "kavya.menon@acme.example",
+  "role": "finance",
+  "department": "Finance",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U015",
+  "name": "Aditya Bansal",
+  "email": "aditya.bansal@acme.example",
+  "role": "it_admin",
+  "department": "IT",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U016",
+  "name": "Pooja Desai",
+  "email": "pooja.desai@acme.example",
+  "role": "it_admin",
+  "department": "IT",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U017",
+  "name": "Nikhil Agarwal",
+  "email": "nikhil.agarwal@acme.example",
+  "role": "it_admin",
+  "department": "IT",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U018",
+  "name": "Divya Chopra",
+  "email": "divya.chopra@acme.example",
+  "role": "support_agent",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U019",
+  "name": "Manish Tiwari",
+  "email": "manish.tiwari@acme.example",
+  "role": "support_agent",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U020",
+  "name": "Shruti Bhatt",
+  "email": "shruti.bhatt@acme.example",
+  "role": "support_agent",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U021",
+  "name": "Harsh Vardhan",
+  "email": "harsh.vardhan@acme.example",
+  "role": "support_agent",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U022",
+  "name": "Tanvi Kulkarni",
+  "email": "tanvi.kulkarni@acme.example",
+  "role": "support_agent",
+  "department": "Support",
+  "manager_id": null,
+  "status": "active",
+  "access": {}
+ },
+ {
+  "user_id": "U023",
+  "name": "Gaurav Saxena",
+  "email": "gaurav.saxena@acme.example",
+  "role": "employee",
+  "department": "Sales",
+  "manager_id": "U001",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U024",
+  "name": "Ritu Arora",
+  "email": "ritu.arora@acme.example",
+  "role": "employee",
+  "department": "Support",
+  "manager_id": "U002",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U025",
+  "name": "Varun Khanna",
+  "email": "varun.khanna@acme.example",
+  "role": "employee",
+  "department": "Finance",
+  "manager_id": "U003",
+  "status": "active",
+  "access": {
+   "crm": "editor"
+  }
+ },
+ {
+  "user_id": "U026",
+  "name": "Simran Kaur",
+  "email": "simran.kaur@acme.example",
+  "role": "employee",
+  "department": "Engineering",
+  "manager_id": "U004",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U027",
+  "name": "Deepak Yadav",
+  "email": "deepak.yadav@acme.example",
+  "role": "employee",
+  "department": "Operations",
+  "manager_id": "U005",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U028",
+  "name": "Nisha Patel",
+  "email": "nisha.patel@acme.example",
+  "role": "employee",
+  "department": "Marketing",
+  "manager_id": "U006",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U029",
+  "name": "Abhishek Jain",
+  "email": "abhishek.jain@acme.example",
+  "role": "employee",
+  "department": "Data",
+  "manager_id": "U007",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U030",
+  "name": "Lakshmi Narayan",
+  "email": "lakshmi.narayan@acme.example",
+  "role": "employee",
+  "department": "Product",
+  "manager_id": "U008",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U031",
+  "name": "Yash Thakur",
+  "email": "yash.thakur@acme.example",
+  "role": "employee",
+  "department": "Sales",
+  "manager_id": "U001",
+  "status": "active",
+  "access": {
+   "crm": "editor"
+  }
+ },
+ {
+  "user_id": "U032",
+  "name": "Bhavna Shah",
+  "email": "bhavna.shah@acme.example",
+  "role": "employee",
+  "department": "Support",
+  "manager_id": "U002",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U033",
+  "name": "Mohit Sinha",
+  "email": "mohit.sinha@acme.example",
+  "role": "employee",
+  "department": "Finance",
+  "manager_id": "U003",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U034",
+  "name": "Aditi Rane",
+  "email": "aditi.rane@acme.example",
+  "role": "employee",
+  "department": "Engineering",
+  "manager_id": "U004",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U035",
+  "name": "Kabir Dutta",
+  "email": "kabir.dutta@acme.example",
+  "role": "employee",
+  "department": "Operations",
+  "manager_id": "U005",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U036",
+  "name": "Sana Qureshi",
+  "email": "sana.qureshi@acme.example",
+  "role": "employee",
+  "department": "Marketing",
+  "manager_id": "U006",
+  "status": "active",
+  "access": {
+   "crm": "viewer"
+  }
+ },
+ {
+  "user_id": "U037",
+  "name": "Tarun Mishra",
+  "email": "tarun.mishra@acme.example",
+  "role": "employee",
+  "department": "Sales",
+  "manager_id": "U001",
+  "status": "pending_start",
+  "access": {}
+ },
+ {
+  "user_id": "U038",
+  "name": "Ira Banerjee",
+  "email": "ira.banerjee@acme.example",
+  "role": "employee",
+  "department": "Support",
+  "manager_id": "U002",
+  "status": "pending_start",
+  "access": {}
+ },
+ {
+  "user_id": "U039",
+  "name": "Dev Anand",
+  "email": "dev.anand@acme.example",
+  "role": "employee",
+  "department": "Finance",
+  "manager_id": "U003",
+  "status": "pending_start",
+  "access": {}
+ },
+ {
+  "user_id": "U040",
+  "name": "Zoya Ali",
+  "email": "zoya.ali@acme.example",
+  "role": "employee",
+  "department": "Engineering",
+  "manager_id": "U004",
+  "status": "pending_start",
+  "access": {}
+ }
+]

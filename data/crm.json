@@ -1,0 +1,682 @@
+[
+ {
+  "customer_id": "CUST-1001",
+  "name": "Northwind Traders #1",
+  "tier": "platinum",
+  "email": "accounts0@client0.example",
+  "phone": "+91 91295 81426",
+  "billing_address": "108 Park Street, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50001",
+    "amount": 1475.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50002",
+    "amount": 545.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1002",
+  "name": "Bluepeak Logistics #1",
+  "tier": "standard",
+  "email": "accounts1@client1.example",
+  "phone": "+91 92876 65392",
+  "billing_address": "88 Linking Road, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50003",
+    "amount": 2110.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50004",
+    "amount": 2265.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50005",
+    "amount": 55.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1003",
+  "name": "Cedar & Pine Retail #1",
+  "tier": "gold",
+  "email": "accounts2@client2.example",
+  "phone": "+91 73349 22156",
+  "billing_address": "98 MG Road, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50006",
+    "amount": 2490.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50007",
+    "amount": 1990.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1004",
+  "name": "Helios Solar #1",
+  "tier": "standard",
+  "email": "accounts3@client3.example",
+  "phone": "+91 93911 70217",
+  "billing_address": "138 MG Road, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50008",
+    "amount": 1585.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50009",
+    "amount": 715.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50010",
+    "amount": 2105.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1005",
+  "name": "Orchid Pharma #1",
+  "tier": "platinum",
+  "email": "accounts4@client4.example",
+  "phone": "+91 90267 57400",
+  "billing_address": "148 Park Street, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50011",
+    "amount": 1450.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50012",
+    "amount": 790.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1006",
+  "name": "Zenith Auto Parts #1",
+  "tier": "gold",
+  "email": "accounts5@client5.example",
+  "phone": "+91 72614 40512",
+  "billing_address": "26 Anna Salai, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50013",
+    "amount": 1730.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50014",
+    "amount": 620.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1007",
+  "name": "Lotus Hospitality #1",
+  "tier": "standard",
+  "email": "accounts6@client6.example",
+  "phone": "+91 82130 56566",
+  "billing_address": "54 Linking Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50015",
+    "amount": 1665.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50016",
+    "amount": 2175.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50017",
+    "amount": 970.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1008",
+  "name": "Quartz Analytics #1",
+  "tier": "standard",
+  "email": "accounts7@client7.example",
+  "phone": "+91 75354 70589",
+  "billing_address": "98 Linking Road, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50018",
+    "amount": 1405.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50019",
+    "amount": 1905.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1009",
+  "name": "Ridge Outdoor Gear #1",
+  "tier": "standard",
+  "email": "accounts8@client8.example",
+  "phone": "+91 77505 14207",
+  "billing_address": "81 Anna Salai, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50020",
+    "amount": 2195.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50021",
+    "amount": 2005.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50022",
+    "amount": 2025.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1010",
+  "name": "Sapphire Textiles #1",
+  "tier": "platinum",
+  "email": "accounts9@client9.example",
+  "phone": "+91 98716 51245",
+  "billing_address": "55 Anna Salai, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50023",
+    "amount": 580.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50024",
+    "amount": 2375.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1011",
+  "name": "Northwind Traders #2",
+  "tier": "standard",
+  "email": "accounts10@client10.example",
+  "phone": "+91 94411 83579",
+  "billing_address": "138 Linking Road, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50025",
+    "amount": 405.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50026",
+    "amount": 715.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50027",
+    "amount": 395.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1012",
+  "name": "Bluepeak Logistics #2",
+  "tier": "platinum",
+  "email": "accounts11@client11.example",
+  "phone": "+91 86171 21915",
+  "billing_address": "194 MG Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50028",
+    "amount": 965.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50029",
+    "amount": 600.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50030",
+    "amount": 390.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1013",
+  "name": "Cedar & Pine Retail #2",
+  "tier": "platinum",
+  "email": "accounts12@client12.example",
+  "phone": "+91 83833 88172",
+  "billing_address": "17 Anna Salai, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50031",
+    "amount": 1645.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50032",
+    "amount": 445.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1014",
+  "name": "Helios Solar #2",
+  "tier": "standard",
+  "email": "accounts13@client13.example",
+  "phone": "+91 92291 25014",
+  "billing_address": "175 Linking Road, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50033",
+    "amount": 1390.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50034",
+    "amount": 680.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50035",
+    "amount": 1455.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1015",
+  "name": "Orchid Pharma #2",
+  "tier": "standard",
+  "email": "accounts14@client14.example",
+  "phone": "+91 84867 10425",
+  "billing_address": "185 Linking Road, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50036",
+    "amount": 790.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50037",
+    "amount": 1150.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1016",
+  "name": "Zenith Auto Parts #2",
+  "tier": "gold",
+  "email": "accounts15@client15.example",
+  "phone": "+91 97579 93748",
+  "billing_address": "130 Park Street, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50038",
+    "amount": 2265.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50039",
+    "amount": 1640.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1017",
+  "name": "Lotus Hospitality #2",
+  "tier": "platinum",
+  "email": "accounts16@client16.example",
+  "phone": "+91 70018 88504",
+  "billing_address": "83 Anna Salai, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50040",
+    "amount": 1990.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50041",
+    "amount": 450.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50042",
+    "amount": 1420.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1018",
+  "name": "Quartz Analytics #2",
+  "tier": "gold",
+  "email": "accounts17@client17.example",
+  "phone": "+91 77846 17592",
+  "billing_address": "62 MG Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50043",
+    "amount": 2415.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50044",
+    "amount": 965.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1019",
+  "name": "Ridge Outdoor Gear #2",
+  "tier": "platinum",
+  "email": "accounts18@client18.example",
+  "phone": "+91 95094 26483",
+  "billing_address": "33 Anna Salai, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50045",
+    "amount": 2125.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50046",
+    "amount": 215.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50047",
+    "amount": 1985.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1020",
+  "name": "Sapphire Textiles #2",
+  "tier": "gold",
+  "email": "accounts19@client19.example",
+  "phone": "+91 76940 80686",
+  "billing_address": "194 Park Street, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50048",
+    "amount": 1390.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50049",
+    "amount": 2270.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50050",
+    "amount": 1590.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1021",
+  "name": "Northwind Traders #3",
+  "tier": "gold",
+  "email": "accounts20@client20.example",
+  "phone": "+91 99478 77839",
+  "billing_address": "116 MG Road, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50051",
+    "amount": 1755.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50052",
+    "amount": 1700.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50053",
+    "amount": 995.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1022",
+  "name": "Bluepeak Logistics #3",
+  "tier": "standard",
+  "email": "accounts21@client21.example",
+  "phone": "+91 89277 82603",
+  "billing_address": "59 Park Street, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50054",
+    "amount": 200.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50055",
+    "amount": 905.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1023",
+  "name": "Cedar & Pine Retail #3",
+  "tier": "standard",
+  "email": "accounts22@client22.example",
+  "phone": "+91 77501 18834",
+  "billing_address": "9 Linking Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50056",
+    "amount": 1850.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50057",
+    "amount": 1655.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1024",
+  "name": "Helios Solar #3",
+  "tier": "gold",
+  "email": "accounts23@client23.example",
+  "phone": "+91 77020 80678",
+  "billing_address": "34 Anna Salai, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50058",
+    "amount": 750.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50059",
+    "amount": 1750.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1025",
+  "name": "Orchid Pharma #3",
+  "tier": "standard",
+  "email": "accounts24@client24.example",
+  "phone": "+91 73176 96374",
+  "billing_address": "111 Linking Road, Chennai",
+  "orders": [
+   {
+    "order_id": "ORD-50060",
+    "amount": 2105.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50061",
+    "amount": 1080.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50062",
+    "amount": 525.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1026",
+  "name": "Zenith Auto Parts #3",
+  "tier": "standard",
+  "email": "accounts25@client25.example",
+  "phone": "+91 92064 95649",
+  "billing_address": "166 MG Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50063",
+    "amount": 1235.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50064",
+    "amount": 2250.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50065",
+    "amount": 1905.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1027",
+  "name": "Lotus Hospitality #3",
+  "tier": "standard",
+  "email": "accounts26@client26.example",
+  "phone": "+91 78147 35112",
+  "billing_address": "49 Anna Salai, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50066",
+    "amount": 1900.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50067",
+    "amount": 905.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50068",
+    "amount": 2085.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1028",
+  "name": "Quartz Analytics #3",
+  "tier": "standard",
+  "email": "accounts27@client27.example",
+  "phone": "+91 98655 19880",
+  "billing_address": "114 MG Road, Bengaluru",
+  "orders": [
+   {
+    "order_id": "ORD-50069",
+    "amount": 505.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50070",
+    "amount": 750.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50071",
+    "amount": 1220.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1029",
+  "name": "Ridge Outdoor Gear #3",
+  "tier": "standard",
+  "email": "accounts28@client28.example",
+  "phone": "+91 75449 63269",
+  "billing_address": "125 Anna Salai, Kolkata",
+  "orders": [
+   {
+    "order_id": "ORD-50072",
+    "amount": 275.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50073",
+    "amount": 2410.0,
+    "status": "delivered"
+   }
+  ]
+ },
+ {
+  "customer_id": "CUST-1030",
+  "name": "Sapphire Textiles #3",
+  "tier": "gold",
+  "email": "accounts29@client29.example",
+  "phone": "+91 70070 61173",
+  "billing_address": "68 Anna Salai, Mumbai",
+  "orders": [
+   {
+    "order_id": "ORD-50074",
+    "amount": 2350.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50075",
+    "amount": 190.0,
+    "status": "delivered"
+   },
+   {
+    "order_id": "ORD-50076",
+    "amount": 460.0,
+    "status": "delivered"
+   }
+  ]
+ }
+]
